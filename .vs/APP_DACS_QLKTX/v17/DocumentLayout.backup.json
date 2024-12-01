@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\File\\APP_DACS_QLKTX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|d:\\file\\app_dacs_qlktx\\app_dacs_qlktx\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\views\\changepassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\views\\changepassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\views\\changepassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\views\\changepassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\views\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\methods\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\methods\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\methods\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\methods\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\methods\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\methods\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\views\\print_bill.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\views\\print_bill.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\views\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\views\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\views\\lg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\views\\lg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\views\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\views\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\methods\\hoadondongia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\methods\\hoadondongia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\methods\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\methods\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\methods\\dgdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\methods\\dgdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\methods\\csvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\methods\\csvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\methods\\phong_csvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\methods\\phong_csvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\views\\print_bill.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\views\\print_bill.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\methods\\hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\methods\\hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\methods\\toa_ktx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\methods\\toa_ktx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|D:\\File\\APP_DACS_QLKTX\\app_dacs_qlktx\\methods\\phong_ktx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688DCE60-5AAE-4786-A17A-6A25013859DA}|APP_DACS_QLKTX\\APP_DACS_QLKTX.csproj|solutionrelative:app_dacs_qlktx\\methods\\phong_ktx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 217,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Views\\Login.xaml.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\Login.xaml.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Views\\Login.xaml.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAowJUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangePassword.xaml.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\ChangePassword.xaml.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Views\\ChangePassword.xaml.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\ChangePassword.xaml.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Views\\ChangePassword.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\Menu.xaml",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Views\\Menu.xaml",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\Menu.xaml",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Views\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T15:15:31.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Views\\Menu.xaml.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\Menu.xaml.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Views\\Menu.xaml.cs",
+              "ViewState": "AgIAAIgKAAAAAAAAAAAqwKAKAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Print_Bill.xaml",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\Print_Bill.xaml",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Views\\Print_Bill.xaml",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\Print_Bill.xaml",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Views\\Print_Bill.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T15:15:31.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangePassword.xaml",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\ChangePassword.xaml",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Views\\ChangePassword.xaml",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\ChangePassword.xaml",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Views\\ChangePassword.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T15:15:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\SinhVien.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Methods\\SinhVien.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\SinhVien.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Methods\\SinhVien.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowMEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\Methods.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Methods\\Methods.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\Methods.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Methods\\Methods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Khoa.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\Khoa.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Methods\\Khoa.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\Khoa.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Methods\\Khoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\Login.xaml",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Views\\Login.xaml",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\Login.xaml",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Views\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T15:15:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\App.xaml.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Views\\App.xaml.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\App.xaml.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Views\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DGDV.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\DGDV.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Methods\\DGDV.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\DGDV.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Methods\\DGDV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\HoaDon.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Methods\\HoaDon.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\HoaDon.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Methods\\HoaDon.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowGsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\App.xaml",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Views\\App.xaml",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\App.xaml",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Views\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T15:15:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\App.config",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\App.config",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\App.config",
+              "RelativeToolTip": "APP_DACS_QLKTX\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-29T16:38:07.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Phong_CSVC.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\Phong_CSVC.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Methods\\Phong_CSVC.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\Phong_CSVC.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Methods\\Phong_CSVC.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAhwHoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Print_Bill.xaml.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\Print_Bill.xaml.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Views\\Print_Bill.xaml.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\Print_Bill.xaml.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Views\\Print_Bill.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\packages.config",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\packages.config",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\packages.config",
+              "RelativeToolTip": "APP_DACS_QLKTX\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-29T16:38:10.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CSVC.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\CSVC.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Methods\\CSVC.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\CSVC.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Methods\\CSVC.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwG4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HoaDonDonGia.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\HoaDonDonGia.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Methods\\HoaDonDonGia.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\HoaDonDonGia.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Methods\\HoaDonDonGia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lg.jpg -  [English (United States)] - Bitmap [1920x1080, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\Lg.jpg",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Views\\Lg.jpg",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Views\\Lg.jpg -  [English (United States)] - Bitmap [1920x1080, 24 bit, JPG]",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Views\\Lg.jpg -  [English (United States)] - Bitmap [1920x1080, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-29T16:44:55.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HopDong.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\HopDong.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Methods\\HopDong.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\HopDong.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Methods\\HopDong.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Toa_KTX.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\Toa_KTX.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Methods\\Toa_KTX.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\Toa_KTX.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Methods\\Toa_KTX.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Phong_KTX.cs",
+              "DocumentMoniker": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\Phong_KTX.cs",
+              "RelativeDocumentMoniker": "APP_DACS_QLKTX\\Methods\\Phong_KTX.cs",
+              "ToolTip": "D:\\File\\APP_DACS_QLKTX\\APP_DACS_QLKTX\\Methods\\Phong_KTX.cs",
+              "RelativeToolTip": "APP_DACS_QLKTX\\Methods\\Phong_KTX.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAkwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:15:31.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

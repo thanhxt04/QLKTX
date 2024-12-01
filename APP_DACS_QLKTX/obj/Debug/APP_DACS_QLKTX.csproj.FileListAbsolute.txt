@@ -1,0 +1,162 @@
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\APP_DACS_QLKTX.exe.config
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\APP_DACS_QLKTX.exe
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\APP_DACS_QLKTX.pdb
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.csproj.AssemblyReference.cache
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\ChangePassword.g.cs
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Login.g.cs
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Menu.g.cs
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\App.g.cs
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX_MarkupCompile.cache
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX_MarkupCompile.lref
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\ChangePassword.baml
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Login.baml
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Menu.baml
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.g.resources
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.Properties.Resources.resources
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.csproj.GenerateResource.cache
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.csproj.CoreCompileInputs.cache
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.exe
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.pdb
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.Wpf.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.pdb
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.xml
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.Wpf.pdb
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.Wpf.xml
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\EPPlus.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\EPPlus.Interfaces.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\EPPlus.System.Drawing.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Buffers.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Memory.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Numerics.Vectors.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\EPPlus.xml
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Buffers.xml
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Memory.xml
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Numerics.Vectors.xml
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Print_Bill.g.cs
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Print_Bill.baml
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Drawing.Common.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignColors.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignColors.pdb
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\APP_DACS_QLKTX.exe.config
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\APP_DACS_QLKTX.exe
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\APP_DACS_QLKTX.pdb
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\EPPlus.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\EPPlus.Interfaces.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\EPPlus.System.Drawing.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.Wpf.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignColors.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Buffers.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Drawing.Common.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Memory.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Numerics.Vectors.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\EPPlus.xml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.pdb
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.xml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.Wpf.pdb
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.Wpf.xml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignColors.pdb
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Buffers.xml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Memory.xml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Numerics.Vectors.xml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.csproj.AssemblyReference.cache
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\ChangePassword.g.cs
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Login.g.cs
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Menu.g.cs
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Print_Bill.g.cs
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\App.g.cs
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX_MarkupCompile.cache
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX_MarkupCompile.lref
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\ChangePassword.baml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Login.baml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Menu.baml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Print_Bill.baml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.g.resources
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.Properties.Resources.resources
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.csproj.GenerateResource.cache
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.csproj.CoreCompileInputs.cache
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS.658B4BA6.Up2Date
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.exe
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.pdb
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.ComponentModel.Annotations.dll
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Drawing.Common.pdb
+D:\New folder (2)\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Drawing.Common.xml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\APP_DACS_QLKTX.exe.config
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\APP_DACS_QLKTX.exe
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\APP_DACS_QLKTX.pdb
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\EPPlus.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\EPPlus.Interfaces.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\EPPlus.System.Drawing.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.Wpf.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignColors.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Buffers.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.ComponentModel.Annotations.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Drawing.Common.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Memory.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Numerics.Vectors.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\EPPlus.xml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.pdb
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.xml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.Wpf.pdb
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\LiveCharts.Wpf.xml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignColors.pdb
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Buffers.xml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Drawing.Common.pdb
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Drawing.Common.xml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Memory.xml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Numerics.Vectors.xml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.csproj.AssemblyReference.cache
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\ChangePassword.g.cs
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Login.g.cs
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Menu.g.cs
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Print_Bill.g.cs
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\App.g.cs
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX_MarkupCompile.cache
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX_MarkupCompile.lref
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\ChangePassword.baml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Login.baml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Menu.baml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\Views\Print_Bill.baml
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.g.resources
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.Properties.Resources.resources
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.csproj.GenerateResource.cache
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.csproj.CoreCompileInputs.cache
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS.658B4BA6.Up2Date
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.exe
+D:\File\DACS\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS_QLKTX.pdb
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.ComponentModel.Annotations.dll
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Drawing.Common.pdb
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\bin\Debug\System.Drawing.Common.xml
+D:\File\APP_DACS_QLKTX\APP_DACS_QLKTX\obj\Debug\APP_DACS.658B4BA6.Up2Date
